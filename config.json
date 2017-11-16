@@ -1,0 +1,14 @@
+{
+    "name": "Bridge Game",
+    "template":"phaser",
+    "exp_id": "bridge-game",
+    "contributors": [
+                     "Jonathan Nicholas",
+                     "Christian Battista",
+                     "Vanessa Sochat"
+                    ], 
+    "time": 10,
+    "instruction": "Solve the problems to cross the bridge.",
+    "description": "A fun game to test arithmetic skills, best played with touch screen.",
+    "url": "https://www.github.com/expfactory-experiments/bridge-game"
+}
